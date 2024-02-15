@@ -2,7 +2,7 @@
 # Ans:
 
 <div style="dispaly:flex">
-    <img src="https://github.com/amitYadavDev/ActivityLifeCycle/assets/45551012/36cac24c-3f77-4ef5-871a-834fbff37879" width="24%">
+    <img src="https://github.com/amitYadavDev/ActivityLifeCycle1/assets/45551012/e5791c3f-ccc0-4c2b-8b62-4105a1fc3846" width="24%">
 </div>
 
 
